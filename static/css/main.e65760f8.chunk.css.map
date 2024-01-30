@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,SACE,YAAa,CACb,qBACF,CAEA,YACE,WACF","file":"main.e65760f8.chunk.css","sourcesContent":[".contnet {\r\n  padding: 50px;\r\n  font-family: monospace;\r\n}\r\n\r\n.jql-editor {\r\n  width: 600px;\r\n}"]}
